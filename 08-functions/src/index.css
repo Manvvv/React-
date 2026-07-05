@@ -1,0 +1,33 @@
+button{
+  margin: 10px;
+  padding: 10px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+input{
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+
+}
+
+.page1{
+  background-color: #ed6060;
+  padding: 20px;
+  height: 100vh;
+  width: 100%;
+}
+.page2{
+  background-color: #ea7e7e;
+  padding: 20px;
+    height: 100vh;
+  width: 100%;
+}
+.page3{
+  background-color: #f5dede;
+  padding: 20px;
+    height: 100vh;
+  width: 100%;
+}

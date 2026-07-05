@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+
+h2{
+  font-size: 18px;
+ 
+   
+  color: #1e293b;
+  text-align: center;
+  justify-content: between;
+  font-weight: bold;
+  
+}
+h1{
+  font-size: 64px;
+  text-decoration: dashed;
+  font-family: sans-serif;
+  color: #1e293b;
+  text-align: center;
+  justify-content: between;
+  margin-top: 100px;
+}
+
+button{
+  margin: 5px;
+  padding: 10px 20px;
+  background-color: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
